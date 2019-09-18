@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\D\Projects\Assets\ECSLinuxTest" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="Components" t="Include">
+            <e p="MessageComponent.cs" t="Include" />
+            <e p="MoveComponent.cs" t="Include" />
+            <e p="RotateComponent.cs" t="Include" />
+          </e>
+          <e p="Editor" t="Include">
+            <e p="BuildScript.cs" t="Include" />
+            <e p="HostBuildScript.cs" t="Include" />
+          </e>
+          <e p="MillionTest.cs" t="Include" />
+          <e p="Socket" t="Include">
+            <e p="BaseSocket.cs" t="Include" />
+            <e p="MonoSingleton.cs" t="Include" />
+            <e p="SocketListener.cs" t="Include" />
+            <e p="StringBuilderExtension.cs" t="Include" />
+            <e p="UnityMainThreadDispatcher.cs" t="Include" />
+          </e>
+          <e p="Systems" t="Include">
+            <e p="LogMessageSystem.cs" t="Include" />
+            <e p="MoveSystem.cs" t="Include" />
+          </e>
+          <e p="Testing.cs" t="Include" />
+        </e>
+      </e>
+      <e p="ECSLinuxTest.sln" t="IncludeFlat" />
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+    </e>
+    <e p="C:\Users\1\.Rider2018.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\1\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_ECSLinuxTest.572388354.00" t="ExcludeRecursive" />
+  </component>
+</project>
